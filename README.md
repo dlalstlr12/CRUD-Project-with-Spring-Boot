@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=CRUD%20Project%20with%20Spring%20Boot&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=CRUD%20Project%20with%20Spring%20boot&fontSize=50" />
 
 
 ## 프로젝트 소개
