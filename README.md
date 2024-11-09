@@ -21,36 +21,37 @@
 ## 주요 기능
 <details>
   <summary>메인화면</summary>
-  <img src="">   
+  <img src="https://github.com/user-attachments/assets/7baa6e88-515c-4877-8d13-f7a1405d2374">   
   
 </details>
 
-  - 
-  - 
+  - 메인화면 위에 글작성 페이지 이동 버튼이 있습니다.
+  - 글번호와 제목이 있으며 제목 클릭 시 글 상세 페이지로 이동합니다.
+  - 하단의 숫자를 클릭해 각 페이지 이동이 가능합니다.
+  - 하단의 검색을 통해 게시글의 제목을 검색할 수 있습니다.
 
 <details>
   <summary>게시물 생성</summary>
-  <img src="">   
+  <img src="https://github.com/user-attachments/assets/cd95459e-8190-483a-afca-bb3ecaf9c6af">   
   
 </details>
 
-- 
+- 제일 상단에 제목을 입력할 수 있습니다.
+- 빈 공간에 게시글의 내용을 입력할 수 있습니다.
+- 파일 선택 버튼을 클릭하여 로컬 환경의 파일(사진)을 등록할 수 있습니다.
+- 작성 버튼을 통해 게시물을 등록합니다
 
 <details>
-  <summary>게시물 삭제</summary>
-  <img src="">   
+  <summary>게시물 상세 페이지</summary>
+  <img src="https://github.com/user-attachments/assets/b864f43d-a223-456e-b8c2-6c103adaa624">   
   
 </details>
 
-- 
+- 제목과 내용을 확인할 수 있습니다.
+- 글 삭제를 클릭하여 게시물을 삭제 가능합니다
+- 수정을 클릭하여 게시물 제목, 내용, 파일(사진)을 수정 가능합니다.
 
-<details>
-  <summary>게시물 수정</summary></summary>
-  <img src="">   
-  
-</details>
 
-- 
 
 
 
